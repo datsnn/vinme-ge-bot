@@ -47,20 +47,3 @@ function isPartOf(string, part) {
 function randEl(arr) {
     return arr[Math.floor(Math.random()*arr.length)];
 }
-
-async.forever(function(next) {
-    try {
-
-        var text = fs.readFileSync(__dirname+'/message.txt').toString();
-        
-        fs.unlink(__dirname+'/message.txt', function() {
-            if(text) {
-                vg.sendMessage(text);        
-            }
-        });
-    } catch(e) {
-
-    }
-
-    setTimeout(next, 1000);
-});
