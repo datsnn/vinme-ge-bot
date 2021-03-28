@@ -1,17 +1,17 @@
 {
     "pairs": {
-        "gogo xar": ["ki", "ki shen?", "ki, ragqvia?", "kee", "ki, ragqvia?", "bichi?"],
-        "gamarjoba": ["hey, ragqvia", "kai gamarjoba sheni.", "gamarjoba, bichi xar?", "hi, ramdenis xar?", "salami ragqvia?", "ragqvia?"],
-        "ra gqvia": ["natali, shen?", "tekla )) shen", "mari shen", "keso, ramdenis xar", "maka, qera gogoebi mogwoons?", "gvanca shen?"],
-        "saxeli": ["natali, shen?", "tekla )) shen", "mari shen", "keso, ramdenis xar", "maka, qera gogoebi mogwoons?", "gvanca shen?"],
-        "hi": ["hey, ragqvia", "kai gamarjoba sheni.", "gamarjoba, bichi xar?", "hi, ramdenis xar?", "salami ragqvia?", "ragqvia?"],
-        "hey": ["hey, ragqvia", "kai gamarjoba sheni.", "gamarjoba, bichi xar?", "hi, ramdenis xar?", "salami ragqvia?", "ragqvia?"],
-        "asaki": ["19 shen", "18 shen", "21 shen", "17", "18", "25", "qals asaks ar ekitxebiamn chemo sayvarelo", "13, patara var"],
-        "sad cxovrob": ["didi digomshi shen", "vajaze shen", "weretelze shen", " delisze shen?", "zugdidshi shen?"],
-        "sad swavlob": ["tsu", "free uni shen", "skolashi shen", "kavkasiis uni shen"],
-        "shavgremani": ["shavgremani var", "me qera var :("],
-        "qera":["mec qera var","eh cudia me shavgemaniva"],
-        "?": ["ki", "ara", "ratomac ara", "ravi aba"]
+        "gogo xar": ["shemogviare http://amindi.info"],
+        "gamarjoba": ["shemogviare http://amindi.info"],
+        "ra gqvia": ["shemogviare http://amindi.info"],
+        "saxeli": ["shemogviare http://amindi.info"],
+        "hi": ["shemogviare http://amindi.info"],
+        "hey": ["shemogviare http://amindi.info"],
+        "asaki": ["shemogviare http://amindi.info"],
+        "sad cxovrob": ["shemogviare http://amindi.info"],
+        "sad swavlob": ["shemogviare http://amindi.info"],
+        "shavgremani": ["shemogviare http://amindi.info"],
+        "qera":["shemogviare http://amindi.info"],
+        "?": ["shemogviare http://amindi.info"]
     },
-    "defaults": ["ra gqvia?", "sad cxovrob?", "tbiliseli xar?", "ramdeni wlis xar?", "sad swavlob?", "sheyvarebuli gyavs?", "rogori gogoebi mogowons?", "hmmm", "fb gaqvs?", "raocneba gaqvs?"]
+    "defaults": ["shemogviare http://amindi.info"]
 }
